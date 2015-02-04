@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Contest
-cover: cover.jpg
+cover: 1.png
 date:   2015-02-01
 categories: posts
 ---
