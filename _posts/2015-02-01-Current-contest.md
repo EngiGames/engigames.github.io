@@ -1,12 +1,59 @@
 ---
 layout: post
 title: Current Contest
-cover: 1.png
-date:   2015-02-01
+cover: 3.png
+date:   2015-02-18
 categories: posts
 published: false
 ---
 
-## Current EngiGames Contest
+## Candy Shooter
 
-TBD
+Shoot skittles **into** a cup placed at a random distance.
+
+### Contraption Rules
+
+ 1. Your contraption should have a **footprint** no larger than ~2 x 2 feet
+   - This rule is meant to make the contraptions easy to travel with and easy to set up quickly
+   - There is no limit on:
+     - The height of your contraption
+     - The size our contraption can stretch to while shooting
+     - The weight of your contraption
+ 2. Your contraption can only shoot one projectile at a time
+ 3. Projectiles cannot be fired more than once every five(3) seconds
+ 4. No flammable or liquid propellants
+ 5. There are no limits on cost or build materials
+
+You can make a catapult, trebuchet, air-cannon, sling-shot, etc. Just don't make something unsafe to competitors or spectators.
+
+### The Ammunition and the Target
+
+The ammunition for your contraption will be standard-size skittles candy.
+
+The target will be a standard size "Red SOLO" plastic cup filled ~1" with water to add weight and prevent knock-over/bounce-out.
+
+### The Contest
+
+ 1. Set up your contraption in a defined area on the table behind the index line
+ 2. The cup will be placed at a random distance from the index line (between 6 and 10 feet) and you will be given the distance within 1 inch.
+ 3. You have one(1) minute to adjust/aim your contraption
+ 4. You have two(3) minutes to shoot ten(10) skittles (adjustments can be made during firing)
+ 5. Each skittle that lands and stays in the cup will count as one point
+
+#### Round #1 - Qualification
+
+All competitors make an attempt and their score is recorded.
+
+#### Round #2 - Semifinal
+
+The **top five(5)** competitors from Round #1 will make an additional attempt and their score is recorded.
+
+#### Round #3 - Final
+
+The **top two(2)** competitors from Round #2 make a final attempt, the highest score for this round determines the winner.
+
+In the event of a tie a **ridiculously tiny** cup will replace the standard size cup and additional attempts will be made by each finalist until a final score is determined.
+
+### The Venue
+
+???
