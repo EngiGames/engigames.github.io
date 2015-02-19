@@ -2,7 +2,7 @@
 layout: post
 title: Current Contest
 cover: 1.png
-date:   2000-01-01
+date:   2000-01-02
 categories: posts
 ---
 
