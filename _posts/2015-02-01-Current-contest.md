@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Current Contest
-cover: 3.png
+cover: 1.png
 date:   2015-02-18
 categories: posts
-published: false
 ---
 
 ## Candy Shooter
