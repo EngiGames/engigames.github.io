@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Current Contest: Candy Shooter
+title: Current Contest
 cover: 1.png
 date:   2000-01-02
 categories: posts
 ---
+
+# Candy Shooter
 
 Shoot skittles into a cup placed at a random distance.
 
