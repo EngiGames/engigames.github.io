@@ -6,7 +6,7 @@ date:   2000-01-02
 categories: posts
 ---
 
-## Candy Shooter
+# Candy Shooter
 
 Shoot skittles **into** a cup placed at a random distance.
 
