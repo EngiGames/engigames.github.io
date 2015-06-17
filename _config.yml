@@ -3,4 +3,3 @@ markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 pygments: true
-parmalink: /:title
