@@ -2,4 +2,4 @@ name: EngiGames
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
-pygments: true
+highlighter: rouge
