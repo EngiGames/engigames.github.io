@@ -207,6 +207,10 @@ a:hover {
   background-color: #333;
 }
 
+.freebirdFormviewerViewFormBanner {
+    height: 100px;
+}
+
 /*****************************************************************************/
 /*
 /* Sidebar and Content
