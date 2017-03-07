@@ -285,7 +285,7 @@ th, td {
     padding: 5px;
 }
 
-disqus_thread {
+div.disqus_thread {
     max-width: 725px;
 }
 /*****************************************************************************/
