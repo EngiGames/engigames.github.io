@@ -4,3 +4,4 @@ kramdown:
   extensions: ["tables"]
 highlighter: rouge
 include: ["_pages"] 
+permalink: /:title/ 
