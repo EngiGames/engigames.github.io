@@ -18,9 +18,9 @@ html, body {
 body {
   color: #4a4a4a;
   background-color: #fafbfc;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
   font-weight: 400;
-  font-size: 0.85em;
+  font-size: 1em;
   overflow: hidden;
 }
 
