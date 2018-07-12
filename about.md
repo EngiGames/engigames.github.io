@@ -1,13 +1,17 @@
 ---
-layout: post
+layout: page
 title: About
-cover: 0.png
-date:   2000-12-31
-permalink: about
-categories: posts
+permalink: /about/
 ---
 
 EngiGames is a series of contests for engineers local to the Sacramento region.
+
+
+
+asdlkfjasldfja;lsjdfl
+
+
+
 
 ### The purpose of EngiGames:
 
