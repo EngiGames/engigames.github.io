@@ -3,7 +3,7 @@ layout: post
 title: about
 cover: 0.png
 permalink: about
-order: 1
+order: 0
 ---
 
 EngiGames is a series of contests for engineers local to the Sacramento region.
