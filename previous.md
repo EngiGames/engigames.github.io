@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Previous Contests
-permalink: /previous/
+cover: 5.png
+permalink: previous
 ---
 
 ### [#1 Candy Shooter](http://www.engigames.com/contest1)
