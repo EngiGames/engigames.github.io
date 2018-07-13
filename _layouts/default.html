@@ -25,13 +25,21 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            {% for page in site.pages %}
               <li class="post-link">
-                <a class="post-title" href="{{ page.url }}">
-                   {{ page.title }}
+                <a class="post-title" href="/about">
+                   About
                 </a>
               </li>
-            {% endfor %}
+              <li class="post-link">
+                <a class="post-title" href="/current">
+                   Current Contest
+                </a>
+              </li>
+              <li class="post-link">
+                <a class="post-title" href="/previous">
+                   Previous Contests
+                </a>
+              </li>
           </ul>
         </div>
         <div class="footer">
