@@ -2,9 +2,7 @@
 layout: post
 title: "#4 Matchstick Tower"
 cover: 8.png
-date:   2000-02-04
 permalink: contest4
-categories: contests
 ---
 
 ## Matchstick Tower

@@ -2,9 +2,7 @@
 layout: post
 title: "#3 Balloon Crawler"
 cover: 1.png
-date:   2000-02-03
 permalink: contest3
-categories: contests
 ---
 
 ## Balloon Crawler

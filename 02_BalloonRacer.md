@@ -2,9 +2,7 @@
 layout: post
 title: "#2 Balloon Racer"
 cover: 7.png
-date:   2000-02-02
 permalink: contest2
-categories: contests
 ---
 
 Build a car **at the event** with the supplied materials. Race your car head-to-head against everyone else (double-elimination format). The track will be a **6 ft** straight-away on a smooth concrete or cement floor.

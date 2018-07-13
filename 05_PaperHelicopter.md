@@ -2,9 +2,7 @@
 layout: post
 title: "#5 Paper Helicopter"
 cover: 7.png
-date:   2000-02-05
 permalink: contest5
-categories: contests
 ---
 
 ## Paper Helicopter

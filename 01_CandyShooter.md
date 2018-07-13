@@ -2,9 +2,7 @@
 layout: post
 title: "#1 Candy Shooter"
 cover: 4.png
-date:   2000-02-01
 permalink: contest1
-categories: contests
 ---
 
 Shoot skittles into a cup placed at a random distance.
