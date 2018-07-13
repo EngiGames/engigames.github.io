@@ -1,6 +1,7 @@
 ---
 layout: post
 title: test
+cover: 0.png
 permalink: /test/
 ---
 
