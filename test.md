@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about/
+title: test
+permalink: /test/
 ---
 
 EngiGames is a series of contests for engineers local to the Sacramento region.
