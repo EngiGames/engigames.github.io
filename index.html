@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-{% assign about = site.pages | where: 'name','about.md' %}
-{% assign page = about %}
-{% assign content = about %}
+{% assign page = site.pages[5] %}
+{% assign content = page.content %}
 {% include post.html %}
