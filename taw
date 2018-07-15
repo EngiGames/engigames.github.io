@@ -1,0 +1,1631 @@
+[33mcommit 383d74157fbf0c3c9ef3d3602a18c91d452541a0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 21:14:48 2018 -0700
+
+    still trying to get current page working
+
+[33mcommit aa8f192666b29a1d48008f3c027da4d978a9951b[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 21:06:33 2018 -0700
+
+    Try tags
+
+[33mcommit 0de31094fca2e339b077c12860170e106ddb2cc9[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 20:56:30 2018 -0700
+
+    maybe it works now?
+
+[33mcommit de593bf33ead4bcdf00441d28c2c5bcc99acaded[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 20:48:49 2018 -0700
+
+    HOW TO CATEGORY?
+
+[33mcommit 4450b1b333ff09db2dd340a8d3a8f1cd03dc85fe[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 20:39:18 2018 -0700
+
+    Categories?
+
+[33mcommit 19a9cf1b085ab94c9019cc9156e51c2f23202ce7[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 20:35:17 2018 -0700
+
+    working on categories
+
+[33mcommit e29f707053a06b11092223d25c8bd3115b581bba[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 20:27:57 2018 -0700
+
+    Test current contest category
+
+[33mcommit ec34edddff93643c9537df862a534226f4ce97a5[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Jul 14 20:25:32 2018 -0700
+
+    Only show current link if a page is in the current category
+
+[33mcommit 7163230dd88a2c1d6762303665371c71ee395498[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:55:12 2018 -0700
+
+    .
+
+[33mcommit 5b3b80706708cbd5c288adf57c96fd08387e0144[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:53:30 2018 -0700
+
+    .
+
+[33mcommit 3145929a3f6edee5b69e9673bb907ccb56a9abcb[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:51:34 2018 -0700
+
+    .
+
+[33mcommit e52a3e73e3e7ef9dd0528194f6a316c235c8a265[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:48:55 2018 -0700
+
+    .
+
+[33mcommit c95859c529d38506e62001dd8ee1a41018618ad5[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:46:20 2018 -0700
+
+    Still trying to figure out the home page.
+
+[33mcommit c789bac865772cee1e9d56b270f2286774c33b6c[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:39:20 2018 -0700
+
+    rename.
+
+[33mcommit 7f15d213866348b93a7eb7c4cdec75093b7ca5b0[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:38:22 2018 -0700
+
+    Still trying.
+
+[33mcommit d29cdbad1618657f450f34f4d71c74e8df23314d[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:34:18 2018 -0700
+
+    Trying to fix home page.
+
+[33mcommit a65b73562e7dd9e71cf677af757c86a1002db282[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:16:42 2018 -0700
+
+    Trying to get default home page.
+
+[33mcommit 6e533caf521f157746ff2053c9a13b1c58d600bc[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:13:59 2018 -0700
+
+    Move to pages folder.
+
+[33mcommit 3a826dc64aeac7db5e80c002b7d7b87e4c7a525f[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:10:25 2018 -0700
+
+    Fix sidebar list
+
+[33mcommit 971add5506a210f9d291a56ec8cc78c577a6d1ce[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:06:43 2018 -0700
+
+    Convert posts to pages.
+
+[33mcommit 68309554788f477927140f1c76ff344ab1c90d08[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 22:00:24 2018 -0700
+
+    Page content.
+
+[33mcommit d075fe70a4a2c5bd6aaae13149aeae3eb8f757a4[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:57:26 2018 -0700
+
+    Make about default
+
+[33mcommit addb32a6ec62bb73d919dd463798eb23cb494264[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:54:06 2018 -0700
+
+    how to page?
+
+[33mcommit 0d780b30ed66174214ced29c20f714a48030a846[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:52:13 2018 -0700
+
+    pages?
+
+[33mcommit 838e150edd7eaf9b4c74de44c420da2efe4ba637[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:47:09 2018 -0700
+
+    Working on pages.
+
+[33mcommit fda6edbbaa131f146f24d0790d0cd842d6df30d2[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:41:32 2018 -0700
+
+    Replace posts with pages
+
+[33mcommit 19cdd4e92e1e66a79e08afc87ad37cfef12d39bd[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:38:11 2018 -0700
+
+    Add cover image to page
+
+[33mcommit 0f2c325f748283036f3ef49406f9496aea97a6e8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Jul 12 21:35:32 2018 -0700
+
+    working on pages
+
+[33mcommit 8aed17a890390f5c87a24d2e31ba38b39b3e5b46[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Jul 11 23:14:18 2018 -0700
+
+    Messing with pages
+
+[33mcommit 8d8227d3185467477acd4130af563a748b8f0742[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Jul 11 23:05:59 2018 -0700
+
+    Some fixes. Moving towards pages instead of posts
+
+[33mcommit 2eebdc09c85a5d8197e23989420e52f2d4f5b303[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Jul 11 22:58:13 2018 -0700
+
+    Redo all galeries
+
+[33mcommit 510ff048c69fe125da1de0c68c51223f098cd7f5[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Jul 11 22:48:02 2018 -0700
+
+    Redo image galleria
+
+[33mcommit 49ca219e9347a9186d2d1e2612a6b9081b909ba5[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sun Mar 11 22:22:53 2018 -0700
+
+    Update latest contest.
+
+[33mcommit 774d540724a9433968954fbee0588d06673215ef[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Oct 23 16:37:57 2017 -0700
+
+    Update 2000-02-05-#5.md
+
+[33mcommit 173fb4d5a10e3193b1f57704907340d22d9c527b[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Oct 23 16:37:48 2017 -0700
+
+    Update 2000-02-05-#5.md
+
+[33mcommit 7f52c9b04d563fd78b439d8f70963d663c5e6e55[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Oct 23 16:36:36 2017 -0700
+
+    Update main.css
+
+[33mcommit c658c17d7bf13f8063baee0141ce105bc74012c2[m
+Merge: 95577e2 ed599d3
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sun Oct 22 19:24:32 2017 -0700
+
+    Merge branch 'master' of https://github.com/EngiGames/engigames.github.io
+
+[33mcommit 95577e2ec116199f7e74e9dca6621fa79a8168b2[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sun Oct 22 19:24:24 2017 -0700
+
+    Update images.
+
+[33mcommit ed599d359d4b9c4b1666facbc12cc9b8ab40d3f7[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Sun Oct 22 13:20:24 2017 -0700
+
+    Update 2000-02-05-#5.md
+
+[33mcommit bda6e7580d02e8553e658a4a11465283a0a376a7[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sun Oct 22 13:17:16 2017 -0700
+
+    Update 5
+
+[33mcommit 4629bfa400ed63240b99047cf3622faecb9ae9e6[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Oct 19 16:48:07 2017 -0700
+
+    Update 2000-02-05-#5.md
+
+[33mcommit 834550bf383d5cf01d0530ef693d7cb2362366f1[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Oct 19 16:24:15 2017 -0700
+
+    Create          2000-02-05-#5.md
+
+[33mcommit f95105b2eba3fb6c34f8473c78a8b10c8b3cc781[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Apr 19 12:59:37 2017 -0700
+
+    Delete index.md
+
+[33mcommit dd6c8b8a8185acbeea6a8359ab950104172c28c7[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Apr 19 12:56:11 2017 -0700
+
+    Create index.md
+
+[33mcommit e210f684664b9bc93fbc1346863263fd766843dc[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Apr 19 12:55:02 2017 -0700
+
+    Delete test.md
+
+[33mcommit 12c715f134c5c9c5082bce5ab4f1c4538d7c18a4[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Apr 19 12:53:37 2017 -0700
+
+    Update _config.yml
+
+[33mcommit ea97aee7c5daddece27d80b1bf400ec9681bddeb[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Apr 19 12:53:08 2017 -0700
+
+    Update _config.yml
+
+[33mcommit 8663283893a9f014e0fc5bbdc93c35316e2e5811[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Apr 19 12:52:45 2017 -0700
+
+    Create test.md
+
+[33mcommit daebcac4f9289df97d43d46e2772cb7c24d9e007[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Apr 8 13:17:15 2017 -0700
+
+    Consistent pic names.
+
+[33mcommit 4a9b9e2e5a853926bbd7dfd9b68993c57cd69045[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Apr 8 13:10:22 2017 -0700
+
+    #4 complete.
+
+[33mcommit 330b18d7337fa2f257360fc6081d3513743b204b[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 13 10:32:51 2017 -0700
+
+    Delete _pages
+
+[33mcommit e9dd15e78021de141934329882a9670ebb774e8c[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 13 10:32:39 2017 -0700
+
+    Create _pages
+
+[33mcommit 48d2bc7120089da527bd73afe7ac402be40f0164[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Mar 8 16:00:55 2017 -0800
+
+    Update 2000-12-31-About.md
+
+[33mcommit b8006121d4941110c114086974d16b443227c1d5[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Mar 8 15:56:12 2017 -0800
+
+    Update 2000-12-31-About.md
+
+[33mcommit 6bbd82188e69ee09ece4b9bbc972bf6cd25db934[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Mar 8 15:55:29 2017 -0800
+
+    Update 2000-12-31-About.md
+
+[33mcommit 61e6723a8b8f78b0a69ec1da72d0e3f0565075fc[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 22:50:44 2017 -0800
+
+    order
+
+[33mcommit ac0ad5a9e3b463bcfa3abd3472dfc422a728955a[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 22:49:08 2017 -0800
+
+    Resize
+
+[33mcommit 27f64b771baa7c36d2c2ddaf97d40db2c4782cdc[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 22:45:45 2017 -0800
+
+    copy
+
+[33mcommit 6f36675de3839098b9d13491cd7b24df0890aca8[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 22:44:11 2017 -0800
+
+    Headband
+
+[33mcommit 2a3fad0f354428bcfe9b360133e635d5b368261a[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 21:49:21 2017 -0800
+
+    If comments
+
+[33mcommit 3686d04263ff8777f2905c9fcd089a0ac9da6cea[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 6 20:30:51 2017 -0800
+
+    Update main.css
+
+[33mcommit 9121c93f2d6233026646c5a5e24633a8a8df4c2f[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 6 20:20:41 2017 -0800
+
+    Update main.css
+
+[33mcommit 4a0065836bb47dd17a76c7d52b4bcca3dd05cc2b[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 6 20:17:23 2017 -0800
+
+    Update main.css
+
+[33mcommit bd75b854f7c63435b4ea8720a637b0f282dac566[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 6 20:02:33 2017 -0800
+
+    Update 2000-02-04-#4.md
+
+[33mcommit 8773767e6be80361e28902e26897e9a18e11e89e[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Mar 6 20:02:19 2017 -0800
+
+    Update 2000-12-31-About.md
+
+[33mcommit 67b88927703f928202ee0c5cbc9f5dddaddb0f36[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 20:00:44 2017 -0800
+
+    ?
+
+[33mcommit deaa6952be5a232f0f21bbd8443dc540ecb64ba0[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 19:59:09 2017 -0800
+
+    .
+
+[33mcommit b7a9d5959bbbcaf9fcab377b2eee9d862f670111[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 19:53:28 2017 -0800
+
+    please
+
+[33mcommit 664e3b873daed8e2272c1f1c82c1ed7f1fa2886f[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 19:47:02 2017 -0800
+
+    fix?
+
+[33mcommit 8a3384a2149bb018110dbb62b1a89167665cc8ac[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 19:07:38 2017 -0800
+
+    Move to the right palce
+
+[33mcommit 5d770275b003f5e2fd3e807e9a9e6dc0276b6895[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 19:06:21 2017 -0800
+
+    Does this work?
+
+[33mcommit 9ebcff9495b42ebf0f3cde7b1f117ac21f87e52b[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Mar 6 18:41:53 2017 -0800
+
+    Add disqus
+
+[33mcommit 81c28241b8f218486a08b27f541b9ab7a4bd5f49[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue Feb 21 12:55:47 2017 -0800
+
+    Update main.css
+
+[33mcommit f622c55e41c519731c0d47d6f26892c70c992901[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Feb 20 16:06:41 2017 -0800
+
+    Update 2000-02-04-#4.md
+
+[33mcommit 40742f66e14e9c769f99ff4281232ddc8b15efb2[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sun Feb 19 19:44:45 2017 -0800
+
+    Switch matches
+
+[33mcommit e8e2e4512fe44201d248e12f48e58047e861a430[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Feb 17 10:11:03 2017 -0800
+
+    Update 2000-02-04-#4.md
+
+[33mcommit 9cb8984a1de1091c032c9b98cad3af992461ede3[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Feb 15 16:07:25 2017 -0800
+
+    Update 2000-02-04-#4.md
+
+[33mcommit 78f7db2470567b09af856ac5fdb92d9b90fc91cb[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Feb 15 16:04:33 2017 -0800
+
+    Update 2000-02-04-#4.md
+
+[33mcommit 7a80b37adb53e37aa2d5e37fb95941a8f98ab8b3[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 21:12:21 2017 -0800
+
+    Updates
+
+[33mcommit 225bccedc5381d70a427c26c3e43ffd2aa7b92d9[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 21:06:29 2017 -0800
+
+    Type
+
+[33mcommit 5cad98d85cfa764ff6c277541f21cf8c6cf82d10[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 21:03:54 2017 -0800
+
+    Resize images
+
+[33mcommit d3b47598661b1a2806c01dc78b068b44363ec16f[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 21:02:48 2017 -0800
+
+    Fix glue title
+
+[33mcommit b2047d0fea67d8ab3eb113b9c7171c94b6881c60[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 21:00:32 2017 -0800
+
+    Make permalink current
+
+[33mcommit 1db8cf4408011ea32b56798db2d55e1aa6640362[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 20:59:37 2017 -0800
+
+    Fix image link
+
+[33mcommit 9ffddca157fc11898cd03870645bc9d35b44bd16[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 20:58:37 2017 -0800
+
+    Move to posts
+
+[33mcommit acfb2dbe5fcf248f76c98504062e3744d4d241ee[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 20:56:35 2017 -0800
+
+    remove tpmp from events
+
+[33mcommit b0fe6c991d306c8367abb38f334562793c9ea5b8[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 14 20:54:56 2017 -0800
+
+    Add 4th contest
+
+[33mcommit 1acbf6a8da31bf70755c984e346e08bdfc2a5854[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue Dec 13 14:57:01 2016 -0800
+
+    Rename 2000-01-31-About.md to 2000-12-31-About.md
+
+[33mcommit 9aede3fc0b97ce7e94ad980d4c2030a6be1555af[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue Dec 13 14:56:00 2016 -0800
+
+    Update 2000-01-31-About.md
+
+[33mcommit be07d9717250d04331d728ba29232357ddfcc3ad[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Sep 17 20:09:08 2016 -0700
+
+    Update with results from #3
+
+[33mcommit eb999c7a95a9682fc697ca5b95b7b43641a72866[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Jun 6 09:10:52 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 17e71f7b6273439ef11a6a57728147136f152c62[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Jun 3 19:03:58 2016 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 4edde83e7da4e13addfc269ec6ea1d7c942a9f5a[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Jun 3 19:03:45 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 704d51e81937734430b21e3e86ac59defd386525[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Jun 3 19:03:05 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit c26680d3e753f29e89e0ffcc33eecce3f7f41519[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Jun 3 19:02:07 2016 -0700
+
+    Add files via upload
+
+[33mcommit 4d358a0834f952041946f82e018fa76ec2f323bb[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Jun 3 09:45:54 2016 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 6a4b962455662409a9d80ba51f93a4f1f511ef37[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri Jun 3 09:45:36 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 65d99fda7205c5ed2889f3be3e0778ad9da4e691[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 23:21:54 2016 -0700
+
+    Update main.css
+
+[33mcommit a9585040dca071290169434567c3866f9b39f562[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 22:22:28 2016 -0700
+
+    Update main.css
+
+[33mcommit 6ee0df4d18f8902bf7e2a09bbf13298a8cbd0a1d[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 22:20:10 2016 -0700
+
+    Update main.css
+
+[33mcommit 7accfc77738a53bbd830b0d5392b9e299cd4354b[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 22:10:15 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit a5748991069c91cdf6748690e2fcea5275f57a5f[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 21:16:25 2016 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 9d5ffb566f64375a43c25bd22a4f20c34bdd3d50[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 21:14:43 2016 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 906717bf174a5b29eb7f8d11a7f88e47da254835[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Thu Jun 2 21:10:05 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 88d48653db6bc3bd9a0eeac5dfcf2c30fb831231[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Jun 1 09:10:29 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 3fec458546713d47beb8b89b700b8cb4f15e69d8[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Jun 1 09:05:33 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit bf798e4d2b647f0c473d7143dbed896625e20f53[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Jun 1 09:01:06 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 6d146f55a89f0b3de9d122db27c92f0aee128154[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Wed Jun 1 08:53:21 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 98c1f01a9a96f201e7e018f9ada86285d3c565cb[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:50:59 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 8075fa18cc5149d7067bb8101553b8465f76c8a6[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:49:49 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit ecf67ead7e45b85714c83dbb7a7fa46c6a52451e[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:49:02 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit e0abe239a7bad45c6f06bd26ecf0b37a1d0a74dc[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:48:33 2016 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 739860b6495e19f11d47063c59ae1cbb8df844c7[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:47:42 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 0cfdea78d86e949568fb00ff7eaaed16046a2491[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:29:20 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit d57162a65071a86fdfd93740bc82cd301501aca9[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:28:32 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit f141619e577e03aabbb3bcc811f1f9a50fb945c4[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:28:26 2016 -0700
+
+    Updated the wrong file :-/
+
+[33mcommit 35d7853461f45fbd6939cf382174d853af66d9d6[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Tue May 31 08:28:03 2016 -0700
+
+    Update 2000-01-30-#2.md
+
+[33mcommit 8b8bac1479f52d75b926ef3dbf96f3600a7f4afc[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Sun May 15 14:26:51 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 2c34705a01d61139c72bbe3dfecbd9a4af6d5f49[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Sat May 14 18:02:07 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 43798c7caf2d57fc4178b4495a8bfdf2110793fd[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Fri May 13 11:01:12 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 8b7be9ded3601a11c6d1209daedeb7039715af62[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon May 9 21:52:28 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit d3b5a4647172d22afb4c6a2a0c6a6959f27238d9[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon May 9 21:50:26 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 34366d4078d3397d424c08da7e3891a8496cd31e[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon May 9 21:48:53 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit ca6536a33f70469a5d656aa23fdc1a8a354feb17[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon May 9 21:47:51 2016 -0700
+
+    Update 2000-01-03-Current.md
+
+[33mcommit 473cf52f241040ad76c11157b318118c96dd9c3c[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon May 9 21:45:48 2016 -0700
+
+    Add current contest.
+
+[33mcommit 6a2e09a3d7c370b9f0090418d7a7c2f219a4589e[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Sun May 1 22:06:05 2016 -0700
+
+    Update _config.yml
+
+[33mcommit 8182ffacd0e8b63952fd4774d7ee15366a3f0a22[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Sun May 1 22:05:35 2016 -0700
+
+    Update _config.yml
+
+[33mcommit eea9de64a342405ce92dccc3bbf4aa155f26acb6[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Sun May 1 22:04:05 2016 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 582e327ff4cafdce413ddaa10263c1706f34984c[m
+Author: Joe <jotux@users.noreply.github.com>
+Date:   Mon Apr 18 14:44:58 2016 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit c28894a0aef2a772cbb02697a7de7816316a1848[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:44:31 2015 -0800
+
+    Update main.css
+
+[33mcommit ba4f55655e0184bc8214f192905ddef69d10b31c[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:43:02 2015 -0800
+
+    Update main.css
+
+[33mcommit 1083fc214b25e5920635e6f7be7d86d88872a5ba[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:40:41 2015 -0800
+
+    Update main.css
+
+[33mcommit c94073f814541174ba5287cdd32c45b64781e9d8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:36:31 2015 -0800
+
+    Update main.css
+
+[33mcommit 261d83c3cd39f2a9d729d2c92c434b6604d385e8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:36:01 2015 -0800
+
+    Update main.css
+
+[33mcommit 4df2d597881eeed20f86bedbe009a510d2a7dc06[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:35:30 2015 -0800
+
+    Update main.css
+
+[33mcommit 50246775875187f76ccbf977230b7508718efde9[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Dec 24 09:34:08 2015 -0800
+
+    Update main.css
+
+[33mcommit f72c6e7c42cec9ee9fdec336a9df645a43e2ec07[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Dec 9 21:00:57 2015 -0800
+
+    Update 2000-01-02-#1.md
+
+[33mcommit b920d5d26a132889aaa3ccb6dafde01b4de5f204[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Dec 9 21:00:14 2015 -0800
+
+    Update 2000-01-01-Register.md
+
+[33mcommit a512b43e1a25b5f70262d59448ddb5c7b0c20fad[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Dec 9 20:59:33 2015 -0800
+
+    Update 2000-01-30-#2.md
+
+[33mcommit a8932f6f9b579797a1ecec99004825d413e1ad87[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Dec 9 20:55:45 2015 -0800
+
+    Update contest 2
+
+[33mcommit f25f4b47e8ac1d058e88b6352e345afae05c8f9e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Nov 4 16:14:48 2015 -0800
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 057850581972d19f59fe45a9110ac445bd7c1501[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Nov 2 11:19:51 2015 -0800
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 15dd77dd65ff6a8ee3d987535aff739738845925[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Oct 31 18:06:49 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 9f1017d8a4ff0b60d19460971a12b6632bd0744d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Oct 31 17:47:58 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit f34618641b0719d7cb09f79858c0f3fc4bb16e23[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sat Oct 31 17:43:03 2015 -0700
+
+    make pictures smaller
+
+[33mcommit 4d0b386161e56159725f5c6e99114dfbfb26f0a9[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Oct 31 17:41:40 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit d6998ee027daf854e6fd681318f0cc79121c8554[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Fri Oct 30 21:26:00 2015 -0700
+
+    Add iamges for contest
+
+[33mcommit ebc4e64c48c7f7bb028ece97fe78ee2f508e1350[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 23:36:57 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 5b68b19e0e76771d95a72a47d0646da5d4008abf[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Oct 28 23:31:54 2015 -0700
+
+    add baloon image
+
+[33mcommit 531259c3f25fab9861f5c82987873d7fed98c279[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 19:50:17 2015 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit c16531cea60625b825c34d7fb0c64357bbfb1b3e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 19:44:45 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit fcae51a07d755b8d6030ce37f9a3803d394098fd[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 19:43:07 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit cc60d010a6b319a50ceb590a76d03e44470952c4[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 17:05:03 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit fe65210a74686f612e0fc4df9e66f7eb43ed36a2[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 17:02:43 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 1cc0ce610d567326d7d49f2835598451d3d51d11[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 17:02:34 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 4f884c57602fc5dedfc310bd8b8bba7655e719a4[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 17:02:07 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit a3b2679c9792aa5595d852968ab275fbaa37a487[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 16:56:14 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit ac58361cef5ccd846ab5352406e96290adbecfc2[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 16:50:14 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit eda8c5c8ab60e2c8352b931f50d66f5e084a115b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 16:49:21 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 0fde72031cf62f71d8c5757e2e3bde6c04366c8d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Oct 28 16:44:52 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 7797851d0cb0ddf340cb53ec2455f2a09322f1a4[m
+Author: ehmuzed <jumpthegun.c@gmail.com>
+Date:   Sat Oct 24 17:47:28 2015 -0700
+
+    Update 2000-01-30-Current.md
+    
+    fix typo
+
+[33mcommit 09904693b048d217e788558e58d0f9eb25b7699a[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Oct 24 14:48:16 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 714c1564ed4690f6909a35ab6b0b1303556e6451[m
+Author: ehmuzed <jumpthegun.c@gmail.com>
+Date:   Sat Oct 24 14:36:25 2015 -0700
+
+    Balloon Racer Contest added
+    
+    initial commit of balloon racers
+
+[33mcommit d9fa916218608fb69567658f9826f9fcfc41bdf2[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Aug 10 22:12:35 2015 -0700
+
+    Update main.css
+
+[33mcommit 6211c30f480b0464548ec0ed6d4c4b0adaa69090[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Aug 3 20:00:02 2015 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 93ccf461f3d31213115874b3371edb2b83b7116e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Jul 7 14:08:02 2015 -0700
+
+    Update default.html
+
+[33mcommit c428bd913d36626650a33dd7f98a5e904de14e52[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:12:16 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 83865b744b3ae16661c33c08825289bba09b5d24[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:11:37 2015 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit b33b5c821f79edd92360e8e2e54af6750717774c[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:11:23 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit 704c341410a64bf67eb5db6a4932f6a6210f09c8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:10:49 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 9dcb318c35880d68b320830da1279ba57ccf4f81[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:10:04 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit f6ff44681e97a7b4a93b437cb782884f89283f9e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:09:52 2015 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 7c5d3dd664e0c7337f8bb8c54ae07ff7ae0edda2[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:04:28 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit af2d5aa74a024d95e62a1d2a10035de6073c56a5[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:02:53 2015 -0700
+
+    Update _config.yml
+
+[33mcommit 35ddd9dfa8359b9a335334338b50c75e54d4db8b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:01:30 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 917429f675369a192898cb23d2d17a916933e6d9[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:01:20 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit d601d1a4e7208a6ce4fbd7ca7f220fe4645e0ad8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 10:01:00 2015 -0700
+
+    Update _config.yml
+
+[33mcommit ba20638e130c08bfe05e7ffed925ecd24f68c681[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 09:58:59 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit af5a35f0fc2b9f52c579877fde478799a0ef222d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 09:55:55 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit 30dd8c58156d44a98caae8b50fa289f6933876dc[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 09:52:10 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit d3aef4183c7882b5050ca0b5874aabc54fc1ff97[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 09:51:44 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit fe62d3673e876038049610d424d7b404fff3195b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Jun 17 09:51:20 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit 28a20141ecd83a17edfb718615ab23825475d6ea[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Jun 8 16:15:43 2015 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit a1e6e56d72a709307b9b9f5297f8d4fb2b6cd526[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Jun 8 16:15:08 2015 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 868baf606a9c1248eccc2b04ecda4db9b0df214f[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Jun 8 16:14:07 2015 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit d77e857a8424fda21285122435684f911b6498bf[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Jun 8 16:13:41 2015 -0700
+
+    Update 2000-01-31-About.md
+
+[33mcommit 6d353a53d0c8ebf75a5da63da1da20dc4b1eba0d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Jun 8 16:09:25 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 487b59fb151cd7a89f87efe07587aff39ee8e298[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Jun 8 16:03:37 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 3b0e7d9823b609fd96eb89b3fa678997cfcf4935[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Fri May 29 20:49:12 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit 264c6ff4d0a3839198c2ef4f4d97dc2aaecf8704[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Fri May 29 20:48:26 2015 -0700
+
+    Update 2000-01-30-Current.md
+
+[33mcommit fa0393f4c1cc75ffbdf2f3b827031ba47b9593fa[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 21:17:49 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 56f8c106197e1e6228f96600d94f19b201e31cd5[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 21:17:16 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit e709581646bca6bb68dbe782603dedb7f57a5520[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu May 28 21:15:43 2015 -0700
+
+    Actually add gallery
+
+[33mcommit 0711a3d2b0f69df97ab0ac05d6e478714b71ff00[m
+Merge: 683faf7 a57e884
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu May 28 21:12:11 2015 -0700
+
+    Merge branch 'master' of https://github.com/EngiGames/engigames.github.io
+
+[33mcommit 683faf763bb2d9f9692ac16351b1a53793a69aaf[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu May 28 21:11:53 2015 -0700
+
+    make picutre gallery
+
+[33mcommit a57e884e3f9ed30269bf30a51e24ba6e647e2ebd[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 17:17:41 2015 -0700
+
+    Update default.html
+
+[33mcommit 19600f5abc857af2e7993ead8149386af7a6325d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 17:13:40 2015 -0700
+
+    Update default.html
+
+[33mcommit 27dfa5e4e4442b305633b5dc231b44e84d1d2da0[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 17:12:13 2015 -0700
+
+    Update default.html
+
+[33mcommit 7ed01cdb606ea386b6fd17f4132f5812da0bd7fe[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 17:05:49 2015 -0700
+
+    Update 2000-01-29-Previous.md
+
+[33mcommit 3e52836ab6aab1c5043171798a07a6960bbda2af[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu May 28 17:03:55 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit be067d9287691073cdfaa6dd8af46595cdd4f8e4[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:40:33 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 655e951ad6cd09fbfd97f98c1ae97d06d56b32b5[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:39:34 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit e66ea554c065ae8485323c7f64fbf7ab16a58515[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:38:40 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 9c6200daf0b44c0ab47a605c04e0e1029b751b6f[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:37:13 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 81a165fd809fed07af234fb5b547ac5490670920[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:36:24 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit bcf6277460be44307ddea2491139edcf5c662dac[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:35:16 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 9bc1ade32e1cc8c31a6fbb912a71687168cb7038[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:33:59 2015 -0700
+
+    Update _config.yml
+
+[33mcommit 67f91007e67efa987cb51035a83283c537744c46[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:33:01 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit ceac82e1de75f7e540b27d530d42dfc6cfb2ffda[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:32:35 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit 946ad99092e36a9afc0b091babae9d25e7c8a1f8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:31:09 2015 -0700
+
+    Update 2000-01-02-#1.md
+
+[33mcommit e9bfac069bf912ba03be1ac3a92167eaac335a74[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:27:54 2015 -0700
+
+    Rename 2000-01-02-Number1.md to 2000-01-02-#1.md
+
+[33mcommit 7060531febd3ef5949c77098f0903f4696324c72[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed May 27 23:27:16 2015 -0700
+
+    Update and rename 2000-01-02-#1.md to 2000-01-02-Number1.md
+
+[33mcommit 21fa7319b3c3af23d02bb54ef0c4ca7bccd77a2d[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed May 27 23:15:36 2015 -0700
+
+    Updates after contest #1
+
+[33mcommit 630f01e3d75dc1b12dacc926c845be529214e02c[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon May 25 11:42:02 2015 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 509c78421ab077150f9f2f57840fd28595ab57ec[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 14:11:06 2015 -0700
+
+    Create README.md
+
+[33mcommit b23ced16e88d93444a132207f45ec1d1f02b4164[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 14:10:28 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit 5b989ff92ad1971f94cd201f5aafebc6a42eda8d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 14:07:56 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit 99632b137b7bee643b6039e3a884be76372cfd6b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 14:07:21 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit 9d8fb53d2c25acb2d3a8bd955d7be94edba52b44[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 14:04:42 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit 18eb982c19d210e2e6f4b05b926c588e738c9a1f[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 14:04:18 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit fc1a3abba191bf6c197280cd2c541a70b067f87d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 13:59:47 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit 1ec7ba46e375a21757d723f5aa5a54724317152c[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 13:56:59 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit ae7faf9f9a6fce5fe91ab47cc36728a9ac113f49[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 13:56:17 2015 -0700
+
+    Update 2000-01-03-About.md
+
+[33mcommit a4f0b8b3546d24e5c4bce77145126575e801e9e8[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Apr 7 13:13:33 2015 -0700
+
+    Update 2000-01-02-Current.md
+
+[33mcommit d3e5bbb7cb1294641a95ee07346578c9c4061a90[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Apr 4 21:20:27 2015 -0700
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 67445b1d8fd595ff9a55d07eed43bd952c8a2e94[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Apr 4 16:34:58 2015 -0700
+
+    Update 2000-01-02-Current.md
+
+[33mcommit d9736b0947d095d7f900623c6ef4710a6f8ce8fa[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Apr 4 16:32:39 2015 -0700
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 6b9879a4a56c7f3d082a94e47818e6a70314d3dc[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Sat Apr 4 16:30:47 2015 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 8b62801cb7f9d8b8c2a87f345e885d3b26585c3e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Fri Mar 20 15:42:33 2015 -0700
+
+    Update 2000-01-02-Current.md
+
+[33mcommit b170793bf78aa8d1f401bc8d35124dbcb8a31941[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Mar 16 13:48:23 2015 -0700
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 7d6c8cab945e16b38eb333cda33699d7829d8282[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Mon Mar 16 13:32:51 2015 -0700
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 12c0e9707bfca2071e2f670b77100f08e535c20b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Feb 19 16:17:42 2015 -0800
+
+    Update 2000-01-01-Register.md
+
+[33mcommit b01c98897dcbc1c9c23d4bd9dde35394aa498a7f[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Feb 19 16:17:03 2015 -0800
+
+    Update 2000-01-01-Register.md
+
+[33mcommit cfe6a3542b8bd981d9d7a732f0df17d1745e0091[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 22:19:39 2015 -0800
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 23c215f9a6367fd3b673b15a43b52f05fbfdb7e3[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 22:18:49 2015 -0800
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 9b75ca9ce0c7a4712d4badd93a1834146fe8d9d7[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 22:17:38 2015 -0800
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 1bf178735cd900ab77654da434639d006d3de73c[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 21:33:50 2015 -0800
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 9564e3d270130619071c4b6bf5dca70c42b7f354[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 21:32:13 2015 -0800
+
+    Update 2000-01-01-Register.md
+
+[33mcommit 5f3b90f51cc4f784984be6a7ba8e8c1dddc71041[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 21:31:57 2015 -0800
+
+    Update post.html
+
+[33mcommit 951652cce2f2bf16e8b039890b085dfda42fe44e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 21:25:06 2015 -0800
+
+    Update and rename 2000-01-04-Register.md to 2000-01-01-Register.md
+
+[33mcommit f817988068665d82e5b222baea9ff6d10df7b1f7[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Wed Feb 18 21:19:40 2015 -0800
+
+    Add form
+
+[33mcommit 5eeb50c1e65381dc28a77ef6feed92795d7bf8af[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:24:05 2015 -0800
+
+    Update 2000-01-02-Current.md
+
+[33mcommit 2f7c2a4ef8267b4d6e13bea7f80bc77a6535935e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:23:21 2015 -0800
+
+    Update 2000-01-02-Current.md
+
+[33mcommit c4a5f6f5e5a08c8c769a96a212776e26cbb03583[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:22:10 2015 -0800
+
+    Rename 2010-01-03-About.md to 2000-01-03-About.md
+
+[33mcommit 546e0bf7f196f1f350db37595dd02c41083e6b5b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:20:58 2015 -0800
+
+    Rename 2015-02-01-About.md to 2010-01-03-About.md
+
+[33mcommit 59484b569e055d0c285f501fd56353d871318e2a[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:20:41 2015 -0800
+
+    Update and rename 2015-02-01-Current-contest.md to 2000-01-02-Current.md
+
+[33mcommit c4dd7cfdf4fec9ac7b17e5b3debd0a5d32748088[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:19:02 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit 5994708b39249ede9e2eccd74b5cbfab0c56107d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:18:12 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit 514a83ca714be7059c321ea2466f9853dec9474d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:16:22 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit 0ebe171032897794f1b3ede582332b807956610a[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:15:42 2015 -0800
+
+    Update 2015-02-01-About.md
+
+[33mcommit c9401180561654e7f4380836dace76e3e7a773d0[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:15:03 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit d053b4eb474efafe957a51db5f52f645cbc0952b[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:14:51 2015 -0800
+
+    Update 2015-02-01-About.md
+
+[33mcommit f1a12935869a787d4c292d730a194f8f5d805ef0[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:14:16 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit 1ac5ac57f6e0ef33d6dd2e4e61adf0f51c3170af[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 17:12:43 2015 -0800
+
+    Seeing how it looks on the site.
+
+[33mcommit 44b9a1faacd6abfd6f997a6185c2803266a18c60[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Wed Feb 18 13:19:36 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit c231f4b75888aaa99e4b3455aa6fe44f08e76e4e[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Feb 5 21:34:30 2015 -0800
+
+    Update 2015-02-01-Current-contest.md
+
+[33mcommit be914388961bc79b3c5fd0dfe75d745e2dacc07d[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Tue Feb 3 21:06:12 2015 -0800
+
+    Images!
+
+[33mcommit ae7de9144acae936c5742499bbf3736472bcd7b4[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Feb 3 20:59:37 2015 -0800
+
+    Update 2015-02-01-About.md
+
+[33mcommit d5cd3896bbb060e64f8efce2b85307bac285421d[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Feb 3 20:57:56 2015 -0800
+
+    Update 2015-02-01-About.md
+
+[33mcommit 625c862eff97457be9b44dc592bc5ee6c6c29c38[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Feb 3 20:57:23 2015 -0800
+
+    Update and rename 2015-02-01-The-Contest.md to 2015-02-01-Current-contest.md
+
+[33mcommit fa0d4a81941a4e14d309737efbde14efbd6a5248[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Feb 3 20:56:48 2015 -0800
+
+    Update 2015-02-01-About.md
+
+[33mcommit 02769bb2087cd4a1ef834c07c10a49fe1ba79220[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Tue Feb 3 12:55:28 2015 -0800
+
+    Update 2015-02-01-About.md
+
+[33mcommit 9977dabb4480ef17003486ee6d3159b633bd270c[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Feb 2 21:49:56 2015 -0800
+
+    Does this work???
+
+[33mcommit 4ccffe1c523b72c671863097bff2065fb2ada687[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Feb 2 21:45:08 2015 -0800
+
+    Remove date from posts
+
+[33mcommit 4d6d96f8cd849a9221cddac3ba41408228c27655[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Feb 2 21:44:59 2015 -0800
+
+    fix gitignore
+
+[33mcommit 0e55323782200872d5aee820cc5b33c3f789d491[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Mon Feb 2 21:41:17 2015 -0800
+
+    gitignore
+
+[33mcommit fe2e0e5a1964ba1c74dee5e23d7689c443000520[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sun Feb 1 22:52:00 2015 -0800
+
+    Add jekyll config stuff
+
+[33mcommit 6c0bd4e2b36e9fe1affeeabfc31cbfd3bfec76fb[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sun Feb 1 22:48:13 2015 -0800
+
+    favicon
+
+[33mcommit 43645feced4b91955cfef2daec4928dc01761a25[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Sun Feb 1 22:45:07 2015 -0800
+
+    Does this work?
+
+[33mcommit 623b89b36679564036b009d09c063d96eb50c06c[m
+Author: jotux <joepbrown@gmail.com>
+Date:   Thu Jan 29 22:07:59 2015 -0800
+
+    add cname
+
+[33mcommit 543a1c403ae786cd0444640b36a0608f82592399[m
+Author: Joe Brown <joepbrown@gmail.com>
+Date:   Thu Jan 29 15:52:20 2015 -0800
+
+    Replace master branch with page content via GitHub
