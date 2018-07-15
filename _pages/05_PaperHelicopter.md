@@ -3,7 +3,6 @@ layout: post
 title: "#5 Paper Helicopter"
 cover: 7.png
 permalink: contest5
-tags: current
 ---
 
 ## Paper Helicopter
