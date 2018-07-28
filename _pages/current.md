@@ -12,7 +12,7 @@ Build a mousetrap car **at home**. The car must go from the starting line to a f
 
 ## When
 
- * Friday 7-Sep-2018
+ * Saturday 15-Sep-2018
  * 6:30pm
 
 ## Where
