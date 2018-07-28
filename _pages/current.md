@@ -3,7 +3,6 @@ layout: post
 title: "#6 Mousetrap Measure"
 cover: 5.png
 permalink: current
-published: false
 ---
 
 ## Mousetrap Measure
