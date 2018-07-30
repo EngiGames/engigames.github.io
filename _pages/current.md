@@ -31,7 +31,7 @@ There are no other material restrictions.
 ## Car Rules
 
  1. Only one(1) mousetrap shall be used
- 2. The mousetrap shall be the sole source of propulsion
+ 2. The mousetrap spring shall be the sole source of energy
  3. The car shall not be larger than 12in x 12in in length x width (no limit on height)
 
 ## Event Rules
@@ -43,3 +43,4 @@ There are no other material restrictions.
  5. Distance is measured from the starting line to the center of the front wheels on the car
  6. In the event of a tie, the car that reached its stopping point first shall be named the winner
  7. The contest is double elimination
+ 8. The track will be Medium Density FIberboard (MDF)
