@@ -40,7 +40,7 @@ There are no other material restrictions.
  2. Races start at 6:30pm
  3. Two competitors will start their cars at the same time from the starting line
  4. The car that comes to a complete stop closest to the finish line wins
- 5. Distance is measured from the starting line to the center of the front wheels on the car
+ 5. Distance is measured from the starting line to the center of the front wheels on the car where it touches the ground
  6. In the event of a tie, the car that reached its stopping point first shall be named the winner
  7. The contest is double elimination
  8. The track will be Medium Density Fiberboard (MDF)
