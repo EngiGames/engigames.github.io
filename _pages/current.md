@@ -43,4 +43,4 @@ There are no other material restrictions.
  5. Distance is measured from the starting line to the center of the front wheels on the car where it touches the ground
  6. In the event of a tie, the car that reached its stopping point first shall be named the winner
  7. The contest is double elimination
- 8. The track will be Medium Density Fiberboard (MDF)
+ 8. The track will be level, flat, and constructed of Medium Density Fiberboard (MDF)
