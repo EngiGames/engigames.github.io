@@ -24,7 +24,7 @@ Rocklin, CA 95677<br>
 
 ### Standard Victor Mouse Trap (metal or plastic)
 
-![Mousetrap](https://raw.githubusercontent.com/EngiGames/engigames.github.io/master/event_pics/06_MousetrapMeasure/mousetrap.jpg "Mousetrap")
+![Mousetrap](https://raw.githubusercontent.com/EngiGames/engigames.github.io/master/event_pics/06_MousetrapMeasure/mousetrap.png "Mousetrap")
 
 There are no other material restrictions.
 
