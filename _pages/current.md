@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "#6 Mousetrap Measure"
+title: "#6 Mouse Trap Measure"
 cover: 9.png
 permalink: current
 ---
 
-## Mousetrap Measure
+## Mouse Trap Measure
 
-Build a mousetrap car **at home**. The car must go from the starting line to a finish line **exactly 4 feet away**. The car that stops the **closest** to the finish line is the winner.
+Build a mouse trap car **at home**. The car must go from the starting line to a finish line **exactly 4 feet away**. The car that stops the **closest** to the finish line is the winner.
 
 ## When
 
@@ -24,14 +24,14 @@ Rocklin, CA 95677<br>
 
 ### Standard Victor Mouse Trap (metal or plastic)
 
-![Mousetrap](https://raw.githubusercontent.com/EngiGames/engigames.github.io/master/event_pics/06_MousetrapMeasure/mousetrap.png "Mousetrap")
+![Mouse Trap](https://raw.githubusercontent.com/EngiGames/engigames.github.io/master/event_pics/06_MousetrapMeasure/mousetrap.png "Mouse Trap")
 
 There are no other material restrictions.
 
 ## Car Rules
 
- 1. Only one(1) mousetrap shall be used
- 2. The mousetrap spring shall be the sole source of energy
+ 1. Only one(1) mouse trap shall be used
+ 2. The mouse trap spring shall be the sole source of energy
  3. The car shall not be larger than 12in x 12in in length x width (no limit on height)
 
 ## Event Rules
