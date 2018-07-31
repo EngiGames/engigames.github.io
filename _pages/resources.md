@@ -26,3 +26,7 @@ permalink: resources
 [Mechanical Components](https://www.mcmaster.com)
 
 [Small Mechanical Components](https://shop.sdp-si.com/catalog?brand=sdp)
+
+## Books
+
+[507 Mechanical Movements](https://www.amazon.com/507-Mechanical-Movements-Mechanisms-Devices/dp/1603863117)
