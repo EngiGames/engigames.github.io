@@ -15,3 +15,5 @@ permalink: previous
 
 ### [#5 Paper Helicopter](http://www.engigames.com/contest5)
 
+### [#6 Mousetrap Measure](http://www.engigames.com/contest6)
+
