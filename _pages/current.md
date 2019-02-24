@@ -8,7 +8,7 @@ published: true
 
 ## Stick Bridge
 
-Build a bridge **at the event**  from popsicle sticks and masking tape. The brigde that holds the most weight is the winner.
+Build a bridge **at the event**  from popsicle sticks and tape. The brigde that holds the most weight is the winner.
 
 ## When
 
