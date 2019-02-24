@@ -13,7 +13,7 @@ Build a bridge **at the event**  from popsicle sticks and tape. The brigde that 
 ## When
 
  * Saturday 30-Mar-2019
- * 6:30pm
+ * 6:00 pm
 
 ## Where
 
