@@ -36,7 +36,7 @@ Sacramento, CA 95834<br>
  1. Bridges may use up to 30 popsicle sticks and one roll of transparent tape (275 inches)
  2. Popsicle sticks cannot be cut or modified
  3. The bridge must span a 12 inch gap
- 4. The bridge must not be wider than one popsicle stick (there is no limit on height)
+ 4. The bridge must not be wider than one popsicle stick (4.5 inches wide, there is no limit on height)
  5. The bridge must be free-standing (no taping to the table)
  6. The bridge must have a point in the middle where a hook can be attached to hold weight
 
